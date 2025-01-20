@@ -1,4 +1,4 @@
-const { i18n } = require('./i18n');
+import i18n from './i18n.js'; 
 
 const nextConfig = {
   reactStrictMode: true,

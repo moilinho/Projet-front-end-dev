@@ -5,5 +5,5 @@ const i18nConfig = {
     },
   };
   
-  module.exports = i18nConfig;
+  export default i18nConfig;
   
